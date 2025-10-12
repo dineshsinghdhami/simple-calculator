@@ -28,7 +28,7 @@ A simple, responsive, and modern **Calculator** built with HTML, CSS, and JavaSc
 ## 🚀 Live Demo
 
 You can try the calculator online here:
-[Live Calculator Demo](https://thecodingdhami.github.io/simple-calculator/)
+[Live](https://thecodingdhami.github.io/simple-calculator/)
 
 
 ---
