@@ -21,7 +21,7 @@ A simple, responsive, and modern **Calculator** built with HTML, CSS, and JavaSc
 
 ## 🖼 Screenshots
 
-[![Calculator Screenshot](calculator1.png)](calculator1.png)
+[![Calculator Screenshot](calculator.png)](calculator.png)
 
 ---
 
