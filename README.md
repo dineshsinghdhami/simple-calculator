@@ -28,7 +28,7 @@ A simple, responsive, and modern **Calculator** built with HTML, CSS, and JavaSc
 ## 📁 Project Structure
 
 ```
-password-generator/
+simple-calculator/
 │
 ├── index.html
 ├── style.css
