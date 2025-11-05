@@ -25,44 +25,32 @@ A simple, responsive, and modern **Calculator** built with HTML, CSS, and JavaSc
 
 ---
 
-## 🚀 Live Demo
+## 📁 Project Structure
 
-You can try the calculator online here:
-[Live](https://dineshsinghdhami.com.np/simple-calculator/)
-
-
----
-
-## 💻 Technologies Used
-
-* HTML
-* CSS
-* JavaScript
+```
+password-generator/
+│
+├── index.html
+├── style.css
+├── script.js
+└── screenshot.png
+```
 
 ---
 
-## 📌 Usage Notes
+## 🛠️ Technologies Used
 
-* **AC** → Clear all input
-* **DEL** → Delete last character
-* **= or Enter** → Evaluate the expression
-* Works with **keyboard input** for numbers and operators
-
----
-
-## 📱 Responsive Design
-
-* Fully adaptive layout for mobile and tablet screens
-* Buttons and input field scale properly for touch devices
+| Technology | Badge |
+|------------|-------|
+| HTML      | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) |
+| CSS       | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 
 
 ---
 
-## ⚡ License
+## ©️ Copyright
 
-This project is licensed under the **MIT License**.
+- All rights reserved © 2025 **[Dinesh Singh Dhami](https://www.dineshsinghdhami.com.np)**
+- This project is licensed for personal and educational use.
+- For commercial use or redistribution, please contact the owner.
 
----
-
-### ✨ Author
-
-**thecodingdhami** <i>by Dinesh Singh Dhami</i>
